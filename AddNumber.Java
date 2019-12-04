@@ -1,4 +1,4 @@
-public class AddNumber {
+public class HelloWorld {
 
    public static void main(String[] args) {
         
